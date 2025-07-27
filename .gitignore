@@ -1,0 +1,32 @@
+# Build artifacts
+build/
+*.o
+*.elf
+*.bin
+*.img
+*.tar
+*.gz
+
+# Generated files
+linker.ld
+initrd.img
+
+# Object files
+kernel/*.o
+loader/*.o
+user/*.o
+
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+
+# Debug files
+*.gdb
+*.log
+
+# QEMU files
+*.qcow2
+*.vmdk
+*.vdi 
