@@ -2,7 +2,7 @@
 
 A minimal microkernel supporting preemptive multitasking, inter-process communication, and demand-paged virtual memory on x86_64 architecture.
 
-**Repository**: github.com/you/microkernel-os-proto  
+**Repository**: github.com/you/microkernel 
 **Tech Stack**: C11, x86_64 Assembly, Makefile, QEMU, GDB
 
 ## Table of Contents
